@@ -1,0 +1,2 @@
+"git checkout -b develop" ile yeni bir branch oluşturduk ve main branch'imizden ayrıldık. 
+Artık develop yola kendi başına devam edecek, fakat ileride yollar tekrar kesişecek.
