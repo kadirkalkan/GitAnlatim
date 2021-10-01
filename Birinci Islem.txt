@@ -1,0 +1,1 @@
+"git init" ile bir klasör git projesi haline getirilir.
