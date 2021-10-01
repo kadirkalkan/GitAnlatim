@@ -6,4 +6,4 @@ git flow feature start <branchname> ile feature branch'i oluşturulur
 git flow feature finish <branchname> ile feature branch'i bitirilir. Develop Güncellenir.
 
 git flow release start <branchname> ile yeni bir release oluşturulur
-git flow release finish <branchname> ile release bitirilir, develop ve main güncellenir
+git flow release finish <branchname> -m "release message" ile release bitirilir, develop ve main güncellenir
